@@ -5,6 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import { Container, Row, Col, Button, Alert, Breadcrumb, Card, Form } from "react-bootstrap";
 
 function App() {
+
   return (
     <div className="App">
       <Container className="bg-dark">
@@ -31,7 +32,7 @@ function App() {
           <Button variant="secondary" type="submit" className="my-2">Login</Button>
         </Form>
         <Card className="mb-3" style={{color: "black"}}>
-          <Card.Img src="https://picsum.photos/200/50" />
+          <Card.Img src="https://picsum.photos/400/100" />
           <Card.Body>
             <Card.Title>Card Example</Card.Title>
             <Card.Text>
