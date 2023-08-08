@@ -1,16 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-## this short project was taken from a YouTube tutorial
+I found a good simple tutorial on YouTube on how to add and use Bootstrap with React.
 
 You can find this tutorial here: https://www.youtube.com/watch?v=8pKjULHzs0s
